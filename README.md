@@ -7,7 +7,7 @@
 - <img src="https://cdn-icons-png.flaticon.com/512/3992/3992601.png" width="21" height="21" alt="" title="" class="img-small"> whatsapp: https://wa.me/5541995193032
 - <img src="https://cdn-icons-png.flaticon.com/128/1527/1527101.png" data-src="https://cdn-icons-png.flaticon.com/128/1527/1527101.png" alt="Currículo " title="Currículo " width="21" height="21" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/1527/1527101.png 4x"> Curriculo : https://drive.google.com/file/d/1WtVUoqsmns188nWQDttn_t5QE_rjoR_y/view?usp=sharing
 
-✍️------------------- Projetos ------------------------
+✍️-------------------  -------------------  <b>Projetos: Automação com Python</b>  ------------------------ ------------------- 
 
 <img src="https://cdn-icons-png.flaticon.com/128/8521/8521607.png" data-src="https://cdn-icons-png.flaticon.com/128/8521/8521607.png" alt="Automate" title="Automate" width="21" height="21" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/8521/8521607.png 4x"> Realizar a gestão da caixa de e-mail: 
     - leitura de e-mail com opção de
