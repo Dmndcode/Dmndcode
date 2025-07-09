@@ -49,15 +49,6 @@
       </a>
       <p>🛡️ Microsserviço em Rust para autenticação, autorização, RBAC e rate limiting.</p>
     </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Dmndcode/Playwright-Sinatra-Automation" target="_blank">
-        <img src="https://raw.githubusercontent.com/Dmndcode/Playwright-Sinatra-Automation/main/.github/preview.png" width="100%" alt="Playwright Sinatra"/><br/>
-        <strong>Playwright Sinatra Bot</strong>
-      </a>
-      <p>🤖 Login automatizado e extração de cookies da plataforma Sinatra com Node.js + Playwright.</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
