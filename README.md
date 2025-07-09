@@ -48,8 +48,11 @@
         <strong>API-Guardian</strong>
       </a>
       <p>🛡️ Microsserviço em Rust para autenticação, autorização, RBAC e rate limiting.</p>
+      <img src="https://raw.githubusercontent.com/Dmndcode/API-Guardian/main/.github/logo.png" width="80" alt="API-Guardian Logo"/>
     </td>
   </tr>
+</table>
+
 ---
 
 ### 📊 GitHub Stats
