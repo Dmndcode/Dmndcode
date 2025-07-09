@@ -40,18 +40,16 @@
 
 ## 🚀 Projetos em Destaque
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/Dmndcode/API-Guardian" target="_blank">
-        <img src="https://raw.githubusercontent.com/Dmndcode/API-Guardian/main/.github/preview.png" width="100%" alt="API-Guardian"/><br/>
-        <strong>API-Guardian</strong>
-      </a>
-      <p>🛡️ Microsserviço em Rust para autenticação, autorização, RBAC e rate limiting.</p>
-      <img src="https://cdn.discordapp.com/attachments/1361075362502541483/1392595228287959191/raw.png?ex=68701adf&is=686ec95f&hm=68f673c90269bf9bc28c7b78a205fb0789f2a86ba677f54df22e136be378a4e1&" width="80" alt="API-Guardian Logo"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/Dmndcode/API-Guardian" target="_blank">
+    <img src="https://cdn.discordapp.com/attachments/1361075362502541483/1392595228287959191/raw.png?ex=68701adf&is=686ec95f&hm=68f673c90269bf9bc28c7b78a205fb0789f2a86ba677f54df22e136be378a4e1&" width="100" alt="API-Guardian Logo"/>
+  </a>
+  <br/>
+  <a href="https://github.com/Dmndcode/API-Guardian" target="_blank">
+    <h3><strong>API-Guardian</strong></h3>
+  </a>
+  <p>🛡️ Microsserviço robusto em <strong>Rust</strong> para autenticação, autorização, RBAC e rate limiting.</p>
+</div>
 
 ---
 
