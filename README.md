@@ -49,7 +49,7 @@
       </a>
       <p>🛡️ Microsserviço em Rust para autenticação, autorização, RBAC e rate limiting.</p>
     </td>
-
+  </tr>
 ---
 
 ### 📊 GitHub Stats
