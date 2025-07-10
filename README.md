@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://github.com/Dmndcode/API-Guardian" target="_blank">
-    <img src="[https://cdn.discordapp.com/attachments/1361075362502541483/1392595228287959191/raw.png](https://cdn.discordapp.com/attachments/1361075362502541483/1392595228287959191/raw.png?ex=68701adf&is=686ec95f&hm=68f673c90269bf9bc28c7b78a205fb0789f2a86ba677f54df22e136be378a4e1&)" width="100" alt="API-Guardian Logo"/>
+    <img src="https://cdn.discordapp.com/attachments/1361075362502541483/1392595228287959191/raw.png?ex=68701adf&is=686ec95f&hm=68f673c90269bf9bc28c7b78a205fb0789f2a86ba677f54df22e136be378a4e1&" width="100" alt="API-Guardian Logo"/>
   </a>
   <br/>
   <a href="https://github.com/Dmndcode/API-Guardian" target="_blank">
