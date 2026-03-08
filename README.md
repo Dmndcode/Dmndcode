@@ -24,24 +24,26 @@
 
 ### 🚀 Projetos em Destaque
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Dmndcode/zsynergy">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dmndcode&repo=zsynergy&theme=tokyonight&cache_seconds=1800" width="100%" />
-      </a>
-      <br />
-      <sub><b>Ecossistema de Auditoria VTEX (Next.js + Node)</b></sub>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Dmndcode/API-Guardian">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dmndcode&repo=API-Guardian&theme=tokyonight&cache_seconds=1800" width="100%" />
-      </a>
-      <br />
-      <sub><b>🛡️ Security Gateway de alto desempenho em Rust</b></sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h2>🚀 Projetos em Destaque</h2>
+  <!-- PROJETO 1 -->
+  <p align="center">
+    <a href="https://github.com/Dmndcode/zsynergy">
+      <img src="COLE_O_LINK_DA_SUA_IMAGEM_AQUI" width="700" alt="zsynergy" style="border-radius: 10px; border: 1px solid #30363d;" />
+    </a>
+    <br />
+    <strong>zsynergy</strong> — <i>Ecossistema de Auditoria VTEX (Next.js + Node)</i>
+  </p>
+  <br />
+  <!-- PROJETO 2 -->
+  <p align="center">
+    <a href="https://github.com/Dmndcode/API-Guardian">
+      <img src="COLE_O_LINK_DA_SUA_IMAGEM_AQUI" width="700" alt="API-Guardian" style="border-radius: 10px; border: 1px solid #30363d;" />
+    </a>
+    <br />
+    <strong>API-Guardian</strong> — <i>🛡️ Security Gateway de alto desempenho em Rust</i>
+  </p>
+</div>
 
 
 
@@ -58,13 +60,15 @@
 ### 📊 Estatísticas de Desenvolvedor
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dmndcode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmndcode&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" />
-</div>
-
-<div align="center">
+  <h3>📊 Estatísticas de Desenvolvedor</h3>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmndcode&theme=tokyonight" width="100%" />
+  
+  <br />
+  
+  <!-- O Streak (fogos) geralmente funciona melhor que os outros, então você pode manter esse se quiser -->
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dmndcode&theme=tokyonight&hide_border=true" />
 </div>
+
 
 
 ---
