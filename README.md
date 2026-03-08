@@ -55,10 +55,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dmndcode&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmndcode&layout=compact&theme=radical" width="300" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dmndcode&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dmndcode&theme=dark"/>
+</div>
 
 ---
 
