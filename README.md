@@ -24,12 +24,25 @@
 
 ### 🚀 Projetos em Destaque
 
-<div align="center">
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Dmndcode/zsynergy">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dmndcode&repo=zsynergy&theme=tokyonight&cache_seconds=1800" width="100%" />
+      </a>
+      <br />
+      <sub><b>Ecossistema de Auditoria VTEX (Next.js + Node)</b></sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Dmndcode/API-Guardian">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dmndcode&repo=API-Guardian&theme=tokyonight&cache_seconds=1800" width="100%" />
+      </a>
+      <br />
+      <sub><b>🛡️ Security Gateway de alto desempenho em Rust</b></sub>
+    </td>
+  </tr>
+</table>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dmndcode&repo=zsynergy&theme=tokyonight&cache_seconds=1800)](https://github.com/Dmndcode/zsynergy)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dmndcode&repo=API-Guardian&theme=tokyonight&cache_seconds=1800)](https://github.com/Dmndcode/API-Guardian)
-
-</div>
 
 
 ---
