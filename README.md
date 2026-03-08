@@ -1,75 +1,98 @@
-<h1 align="center">
-  <img src="https://cdn-icons-png.flaticon.com/128/3891/3891140.png" width="42" alt="Code" />
-  Olá, eu sou o Rafael Guindani 👋
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Rafael%20Guindani&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/128/4712/4712222.png" width="21" alt="Bot" />
-  <strong>Ready to automate your business?</strong><br>
-  <em>Transformando ideias em soluções de alto desempenho.</em>
-</p>
+  <h3>主 Developer & Automation Specialist 主</h3>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  </p>
+</div>
 
 ---
 
-### 💻 Sobre mim
+### 💻 Sobre Mim
 
-- <img src="https://cdn-icons-png.flaticon.com/128/1387/1387537.png" width="21" alt="Python" /> Desenvolvedor apaixonado por **Python**, automações e projetos inteligentes.
-- 🦀 Explorando o mundo de **Rust**, microsserviços e arquitetura segura.
-- 🎯 Foco em performance, segurança e escalabilidade.
-- 🧠 Sempre em busca de soluções criativas e eficientes para desafios complexos.
+- 🚀 **Especialista em Automação**: Focado em transformar processos manuais em workflows de alta performance.
+- 🦀 **Rust Enthusiast**: Construindo microsserviços seguros, rápidos e escaláveis.
+- 🐍 **Python Pro**: Experiência vasta em scrapers, bots e integração de APIs complexas.
+- 🎯 **Mindset**: Performance extrema, código limpo e arquitetura modular.
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-<div align="center">
-  <a href="https://github.com/Dmndcode/API-Guardian" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/1361075362502541483/1392595228287959191/raw.png?ex=68701adf&is=686ec95f&hm=68f673c90269bf9bc28c7b78a205fb0789f2a86ba677f54df22e136be378a4e1&" width="100" alt="API-Guardian Logo"/>
-  </a>
-  <br/>
-  <a href="https://github.com/Dmndcode/API-Guardian" target="_blank">
-    <h3><strong>API-Guardian</strong></h3>
-  </a>
-  <p>🛡️ Microsserviço robusto em <strong>Rust</strong> para autenticação, autorização, RBAC e rate limiting.</p>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Dmndcode/zsynergy">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dmndcode&repo=zsynergy&theme=tokyonight&show_owner=true" />
+      </a>
+      <p align="center"><i>Ecossistema de Auditoria VTEX (Next.js + Node)</i></p>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Dmndcode/API-Guardian">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dmndcode&repo=API-Guardian&theme=tokyonight&show_owner=true" />
+      </a>
+      <p align="center"><i>🛡️ Security Gateway de alto desempenho em Rust</i></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### ⚙️ Tecnologias & Ferramentas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,nodejs,ts,postgres,docker,redis,git,github,vscode,linux" alt="Skills" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,rust,nodejs,ts,postgres,docker,redis,git,github,vscode,linux,aws&perline=6" />
+</div>
+
+---
+
+### 📊 Estatísticas de Desenvolvedor
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dmndcode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmndcode&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dmndcode&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ### 🌐 Conecte-se Comigo
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rafaelguindani/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" width="24" /> LinkedIn</a> •
-  <a href="mailto:rafaelguindani@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" width="24" /> Email</a> •
-  <a href="https://wa.me/5541995193032"><img src="https://cdn-icons-png.flaticon.com/128/3670/3670051.png" width="24" /> WhatsApp</a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dmndcode&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dmndcode&theme=dark"/>
+  <a href="https://www.linkedin.com/in/rafaelguindani/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rafaelguindani@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5541995193032">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </div>
 
----
+<br />
 
-### 💡 Curiosidades
-
-- 🧱 Amo projetar sistemas modulares e reutilizáveis.
-- ⚡ Fã de performance extrema — se puder ser assíncrono, será.
-- 🧪 Adoro experimentar novas stacks e ferramentas de produtividade.
-
----
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
 <p align="center">
-  <em>Let's build something incredible together!</em> 🚀
+  <em>"If it can be automated, it should be."</em> 🚀
 </p>
