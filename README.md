@@ -60,13 +60,21 @@
 ### 📊 Estatísticas de Desenvolvedor
 
 <div align="center">
-  <h3>📊 Estatísticas de Desenvolvedor</h3>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmndcode&theme=tokyonight" width="100%" />
-  
-  <br />
-  
-  <!-- O Streak (fogos) geralmente funciona melhor que os outros, então você pode manter esse se quiser -->
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dmndcode&theme=tokyonight&hide_border=true" />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmndcode&theme=tokyonight"
+    alt="Resumo das estatísticas do GitHub"
+    width="100%"
+  />
+
+  <br /><br />
+
+  <img
+    src="https://streak-stats.demolab.com/?user=Dmndcode&theme=tokyonight&hide_border=true&locale=pt_BR"
+    alt="Sequência de contribuições no GitHub"
+    width="100%"
+  />
+
 </div>
 
 
